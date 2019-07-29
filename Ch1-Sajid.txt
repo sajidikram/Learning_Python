@@ -1,0 +1,23 @@
+
+>>> print(1+2+3+4+5)
+15
+>>> print (3**2 + 4**2)
+25
+>>> print(3*(5+2))
+21
+>>> #print(100)
+... print(1/2 + 1/2)
+1.0
+>>> print (1//2 + 1//2)
+0
+>>> print (3985780149 % 2)
+1
+>>> print ("Number of items in 8 dozen = ", 8*12)
+Number of items in 8 dozen =  96
+>>> print ("Number of weeks in 180 days = ", 180//7)
+Number of weeks in 180 days =  25
+>>> print ("I love Python!")
+I love Python!
+>>> #This is my first Python Programm
+...
+
